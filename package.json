@@ -1,0 +1,21 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview"
+  },
+  "devDependencies": {
+    "@nuxtjs/tailwindcss": "^5.1.2",
+    "autoprefixer": "^10.4.7",
+    "nuxt": "3.0.0-rc.3",
+    "postcss": "^8.4.14"
+  },
+  "dependencies": {
+    "@mdi/font": "^6.7.96",
+    "animate.css": "^4.1.1",
+    "sass": "^1.52.1",
+    "vue-inline-svg": "^3.1.0"
+  }
+}
